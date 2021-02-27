@@ -1,0 +1,8 @@
+https://www.db4free.net/phpMyAdmin/tbl_change.php?db=distri_2020uptc&table=usuarios
+
+
+86$sh44@7W@zhgJ
+
+Base de datos: distri_2020uptc
+Nombre de usuario: ariel_2020
+Correo electrónico: arielsan99@gmail.com
